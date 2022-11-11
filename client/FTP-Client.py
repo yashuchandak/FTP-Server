@@ -6,7 +6,7 @@ from getpass import getpass
 
 def main():
     PORT = 58965
-    HOST = '192.168.137.1' 
+    HOST = '192.168.1.77' 
     s = socket.socket()
     s.connect((HOST, PORT))
     
@@ -37,6 +37,10 @@ def main():
                 print(x)
 
             elif string == 'rm':
+                x = s.recv(2048).decode()
+                print(x)
+
+            elif string == 'rename':
                 x = s.recv(2048).decode()
                 print(x)
 
