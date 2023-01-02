@@ -1,0 +1,37 @@
+2022-12-05 17:38:35 ('192.168.144.99', 53223) connected
+2022-12-05 17:38:42 get temp.zip
+2022-12-05 17:38:43 get temp.zip
+2022-12-05 17:38:48 disconnected
+
+2022-12-05 17:43:44 ('192.168.144.99', 53378) connected
+2022-12-05 17:44:03 get temp.zip
+2022-12-05 17:44:07 get temp.zip
+2022-12-05 17:44:24 get temp.zip
+2022-12-05 17:44:27 get temp.zip
+2022-12-05 17:44:29 get temp.zip
+2022-12-05 17:47:19 disconnected
+
+2022-12-05 17:50:02 ('192.168.144.99', 53464) connected
+2022-12-05 17:50:04 get temp.zip
+2022-12-05 17:50:06 get temp.zip
+2022-12-05 17:50:08 get temp.zip
+2022-12-05 17:50:12 disconnected
+
+2022-12-06 04:06:14 ('192.168.144.99', 49969) connected
+2022-12-06 04:06:24 get temp.zip
+2022-12-06 04:08:40 disconnected
+
+2022-12-06 04:22:08 ('192.168.144.99', 50266) connected
+2022-12-06 04:23:12 disconnected
+
+2022-12-06 13:16:39 ('192.168.144.99', 51391) connected
+2022-12-06 13:17:13 FRM_C_send_to_server2.txt has been deleted
+2022-12-06 13:18:14 FRM_C_send_to_server1txt has been deleted
+2022-12-06 13:18:37 FRM_C_FRM_S_temp.zip has been deleted
+2022-12-06 13:19:10 disconnected
+
+2022-12-06 15:41:47 ('10.100.107.39', 55781) connected
+2022-12-06 15:41:57 disconnected
+
+2022-12-06 15:50:01 ('10.100.107.39', 55808) connected
+2022-12-06 15:50:33 get temp.zip

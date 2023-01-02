@@ -1,0 +1,12 @@
+FTP SERVER
+
+logs.txt -> maintains user logins and changes
+
+rename      rename
+rm          remove
+get         get from server
+put         send to server
+ls          list
+cd          change directory
+pwd         present working directory
+compress    compress the file on server
